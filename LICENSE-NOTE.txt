@@ -1,0 +1,1 @@
+No open-source license is included in this starter. Confirm that you have permission to publish the source and select an appropriate license before adding one. Without a license, others should not assume they have permission to reuse, modify, or redistribute the code.
